@@ -113,7 +113,7 @@ Open `pizza_sales.xlsx` and use the **Timeline Slicer** to filter by date.
 
 ## 📂 Project Structure
 ```text
-credit-risk-analysis/
+pizza-sales-analysis/
 ├── images/
 │   └──── dashboard.jpeg
 ├── csv_file/
@@ -125,6 +125,7 @@ credit-risk-analysis/
 ├── excel_file/
 │   └── pizza_sales.xlsx
 └── README.md
+```
 
 ---
 
