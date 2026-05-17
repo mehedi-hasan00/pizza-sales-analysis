@@ -1,0 +1,13 @@
+# Excel Temporary Files (Strictly ignore)
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# macOS System Files
+.DS_Store
+
+# VS Code Files
+.vscode/
+
+# Python Cache
+__pycache__/
