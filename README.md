@@ -113,12 +113,18 @@ Open `pizza_sales.xlsx` and use the **Timeline Slicer** to filter by date.
 
 ## 📂 Project Structure
 ```text
-├── data/                    # Raw dataset (pizza_sales.csv)
-├── sql/                     # SQL query files
-├── dashboard/               # Excel dashboard file (.xlsx)
-├── images/                  # Dashboard screenshots
-└── README.md                # Project documentation
-```
+credit-risk-analysis/
+├── images/
+│   └──── dashboard.jpeg
+├── csv_file/
+│   └──── pizza_sales.csv
+├── pdf_documents/
+│   └── Pizza Sales SQL Queries.pdf
+├── sql_file/
+│   └── pizza_sales.sql
+├── excel_file/
+│   └── pizza_sales.xlsx
+└── README.md
 
 ---
 
